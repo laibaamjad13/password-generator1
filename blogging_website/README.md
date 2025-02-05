@@ -42,6 +42,5 @@ A full-featured blogging platform built using Django, where users can register, 
 
 ### **1. Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/blogging-website.git
+git clone https://github.com/laibaamjad13/password-generator1/tree/main/blogging_website
 cd blogging-website
-
